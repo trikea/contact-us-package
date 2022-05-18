@@ -1,0 +1,15 @@
+{
+    "name": "mengtrikea/contact",
+    "autoload": {
+        "psr-4": {
+            "Mengtrikea\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "trikeameng168",
+            "email": "trikeameng168@gmail.com"
+        }
+    ],
+    "require": {}
+}
